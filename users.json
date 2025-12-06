@@ -1,0 +1,13 @@
+{
+    "g": "$2b$12$cKPRjS75pWkJktP4HCf/.eDDu9lofb/4le3T8ckfxEUopHAA1.vQy",
+    "hi": "$2b$12$FKSAPjhLCT/BRTzlIPiv5eiy.NzjkAdUTN4oO2LKAu4t48276YIQa",
+    "deep": {
+        "password": "dddd"
+    },
+    "deep1@gmail.com": {
+        "password": "123456"
+    },
+    "deep@gmail.com": {
+        "password": "123456"
+    }
+}
